@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-[Click here to view TrendNest]((https://trendnestwebapp.netlify.app/))
+((https://trendnestwebapp.netlify.app/))
 
 ---
 
